@@ -1,4 +1,4 @@
-/* Переменные */
+/* Переменные 1 */
 :root{
 	--headline-background-color: #FE0101!important;
 	--headline-border-color: #63abe5!important;
@@ -11,7 +11,7 @@
 	--status-completed-text-color: #fc0000;
 
 	--status-planned-background: #d3f2ff;
-	--status-planned-border: #62b1ff;
+	--status-planned-border: #62b1ff; 
 	--status-planned-text-color: #176093;
 
 	--status-dropped-background: #ffdbdb;
