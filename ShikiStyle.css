@@ -96,28 +96,28 @@ body{
 	border-radius: 2px;
 }
 .bar.simple .bar.s3 {
-	background: #8fcdff;
+	background: #f00000;
 }
 .bar.simple .bar.s3:hover {
-	background: #99d1ff;
+	background: #f00000;
 }
 .bar.simple .bar.s2 {
-	background: #62b2f3;
+	background: #f00000;
 }
 .bar.simple .bar.s2:hover {
-	background: #69b9fa;
+	background: #f00000;
 }
 .bar.simple .bar.s1 {
-	background: #5ca8e5;
+	background: #f00000;
 }
 .bar.simple .bar.s1:hover {
-	background: #65b3f1;
+	background: #f00000;
 }
 .bar.simple .bar.s0 {
-	background: #3797e5;
+	background: #f00000;
 }
 .bar.simple .bar.s0:hover {
-	background: #3ba3f7;
+	background: #f00000;
 }
 
 /* Скроллбар */
