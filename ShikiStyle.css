@@ -616,10 +616,10 @@ header.l-top_menu-v2 {
 
 /* Шкала список аниме и манги */
 .b-stats_bar.anime .bar .first{
-	background: #3797e5;
+	background: #f00000;
 }
 .b-stats_bar.anime .bar .second{
-	background: #5ca8e5;
+	background: #f00000;
 }
 .b-stats_bar.anime .bar .third{
 	background: #aaaaaa;
