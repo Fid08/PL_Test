@@ -76,10 +76,10 @@ body{
 	color: #f00000;
 }
 .stars.score {
-	color: #3d9eed!important;
+	color: #f00000!important;
 }
 .stars.background, .stars.score.hovered{
-	color: #c0c0c0!important;
+	color: #f00000!important;
 }
 
 /* Постер */
