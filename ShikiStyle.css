@@ -73,7 +73,7 @@ body{
 }
 /* Звёздочки */
 .stars.hover {
-	color: #5db5ff!important;
+	color: #f00000!important;
 }
 .stars.score {
 	color: #3d9eed!important;
